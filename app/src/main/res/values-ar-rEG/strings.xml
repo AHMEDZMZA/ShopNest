@@ -1,0 +1,142 @@
+<resources>
+    <!-- Start Screen -->
+    <string name="start_screen1_title">شوب نيست</string>
+    <string name="start_screen1_subtitle">مرحبًا بك في شوب نيست، دعنا نتسوق!</string>
+    <string name="start_screen2_subtitle">ستجد كل ما تحتاجه</string>
+    <string name="start_screen3_subtitle">نقدم لك طريقة سهلة للتسوق، فقط ابق في المنزل معنا</string>
+    <string name="start_screen3_Button">ابدأ الآن</string>
+
+    <!-- Navigation -->
+    <string name="back_to_home">العودة إلى الرئيسية</string>
+    <string name="back">عودة</string>
+
+    <!-- Favorites -->
+    <string name="favorite">المفضل</string>
+    <string name="added_to_favorites">تمت الإضافة إلى المفضلة</string>
+    <string name="removed_from_favorites">تمت الإزالة من المفضلة</string>
+    <string name="favorite_products">المنتجات المفضلة</string>
+    <string name="no_favorites_yet">لا توجد منتجات مفضلة بعد</string>
+    <string name="error_updating_favorites">حدث خطأ أثناء تحديث المفضلة.</string>
+
+    <!-- General Messages -->
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="profile_updated_successfully">تم تحديث الملف الشخصي بنجاح</string>
+    <string name="address_updated_successfully">تم تحديث العنوان بنجاح!</string>
+
+    <!-- Product Details -->
+    <string name="price_label">السعر</string>
+    <string name="read_more">اقرأ المزيد</string>
+    <string name="read_less">اقرأ أقل</string>
+
+    <!-- Profile -->
+    <string name="name">الاسم</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="update_profile">تحديث الملف الشخصي</string>
+    <string name="updating">جاري التحديث…</string>
+    <string name="phone_label">الهاتف:</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+
+    <!-- Buy done -->
+    <string name="success_title">نجاح</string>
+    <string name="successful_message">ناجح</string>
+    <string name="back_to_previous">عودة</string>
+
+    <!-- Register screen -->
+    <string name="register_account">تسجيل حساب</string>
+    <string name="complete_details">أكمل تفاصيلك أو تابع عبر وسائل التواصل الاجتماعي.</string>
+    <string name="register_email">البريد الإلكتروني</string>
+    <string name="email_placeholder">example@email.com</string>
+    <string name="password">كلمة المرور</string>
+    <string name="password_placeholder">********</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="confirm_password_placeholder">********</string>
+    <string name="register_name">الاسم</string>
+    <string name="name_placeholder">اسمك</string>
+    <string name="register_phone">رقم الهاتف</string>
+    <string name="phone_placeholder">رقم هاتفك</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="sign_up_successful">تم تسجيل الحساب بنجاح</string>
+    <string name="error_no_data">لا توجد بيانات</string>
+
+    <!-- Login screen -->
+    <string name="welcome_back">مرحباً بعودتك</string>
+    <string name="sign_in_instruction">قم بتسجيل الدخول باستخدام بريدك الإلكتروني أو كلمة المرور</string>
+    <string name="successful_login">تم تسجيل الدخول بنجاح</string>
+
+    <!-- Home screen -->
+    <string name="hello_user">مرحبًا، %1$s</string>
+    <string name="search">بحث</string>
+    <string name="favorites">المفضلات</string>
+    <string name="cart">عربة التسوق</string>
+    <string name="settings">الإعدادات</string>
+    <string name="categories_title">الفئات</string>
+    <string name="no_categories_available">لا توجد فئات متاحة.</string>
+    <string name="signup_instruction">ليس لديك حساب؟ </string>
+
+    <!-- Search screen -->
+    <string name="search_placeholder">ابحث عن المنتجات</string>
+    <string name="search_no_products">هذا المنتج غير متوفر</string>
+    <string name="search_initial_message">ابحث عن المنتج الذي تريده</string>
+    <string name="search_instruction">اضغط على بحث في لوحة المفاتيح للعثور على المنتجات</string>
+    <string name="error_loading">فشل في تحميل نتائج البحث.</string>
+
+    <!--Change Password Screen-->
+    <string name="change_password_title">تغيير كلمة المرور</string>
+    <string name="current_password_hint">كلمة المرور الحالية</string>
+    <string name="new_password_hint">كلمة المرور الجديدة</string>
+    <string name="enter_registered_password">أدخل كلمة المرور المسجلة الخاصة بك</string>
+    <string name="password_changed_successfully">تم تغيير كلمة المرور بنجاح</string>
+    <string name="password_change_error">حدث خطأ أثناء تغيير كلمة المرور</string>
+
+    <!--Setting Screen-->
+    <string name="app_name">تطبيق التجارة الإلكترونية</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="check_your_profile">تفقد ملفك الشخصي</string>
+    <string name="view">عرض</string>
+    <string name="general">عام</string>
+    <string name="language">اللغة</string>
+    <string name="choose_your_language">اختر لغتك</string>
+    <string name="support">الدعم</string>
+    <string name="contact">اتصل بنا</string>
+    <string name="feedback">التعليقات</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="about">حول</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="logout_successful">تم تسجيل الخروج بنجاح</string>
+    <string name="logout_error">حدث خطأ أثناء تسجيل الخروج</string>
+    <string name="cart_buy_button">شراء</string>
+
+
+
+    <!-- Cart Screen -->
+    <string name="my_cart">سلتي</string>
+    <string name="total_price">السعر الإجمالي: $%1$s</string>
+    <string name="discount">الخصم: %1$s%%</string>
+    <string name="price_per_item">%1$d x $%2$s</string>
+    <string name="item_removed_from_cart">تمت إزالة العنصر من السلة</string>
+    <string name="error_removing_item">خطأ في إزالة العنصر من السلة</string>
+    <string name="decrease_quantity">تقليل الكمية</string>
+    <string name="increase_quantity">زيادة الكمية</string>
+    <string name="buy">شراء</string>
+    <string name="proceeding_to_payment">جاري التوجه للدفع</string>
+    <string name="your_cart_is_empty">سلتك فارغة</string>
+    <string name="cart_title">سلتي</string>
+    <string name="cart_added">أضف للسلة</string>
+    <string name="remove_from_cart">إزالة من السلة</string>
+    <string name="item_added_to_cart">تمت إضافة العنصر إلى السلة</string>
+    <string name="error_adding_to_cart">حدث خطأ أثناء إضافة العنصر إلى السلة</string>
+
+
+    <string name="language_selection">اختيار اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="confirm">تأكيد</string>
+
+
+        <string name="contact_us">اتصل بنا</string> <!-- أضف هذا السطر -->
+        <string name="ok">موافق</string>
+
+</resources>
