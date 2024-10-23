@@ -1,4 +1,14 @@
 <h2>ShopNest</h2>
+<p>
+🛠 Technologies and Tools Used:
+MVVM Architecture
+Retrofit
+AuthInterceptor
+Coil (for image loading)
+Navigator (for screen navigation)
+Arabic Localization
+ApiService & ViewModel
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/428a2f8b-7785-4f13-8dae-fd439c19edc4" alt="photo 1" width="150"/>
   <img src="https://github.com/user-attachments/assets/b03aaf64-cf3c-4ee4-984e-70009ce1f64b" alt="photo 2" width="150"/>
